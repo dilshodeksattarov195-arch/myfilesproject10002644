@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcalculate",
+        "uuid": 15710648,
+        "checksum": "kjwwe9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
